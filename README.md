@@ -1,10 +1,13 @@
-# Computer-Vision-Courses-in-Kaggle
-Create image classifiers with TensorFlow and Keras, and explore convolutional neural networks.
+# Purpose
+## Computer-Vision-Courses-in-Kaggle 강의 번역
+(Create image classifiers with TensorFlow and Keras, and explore convolutional neural networks.)
 
 캐글(Kaggle)에서 제공하는 Computer Vision 내용을 번역하였습니다.
 (오역 및 잘못된 부분이 많으니 참고 바랍니다.)
 
 ---
+
+# 목차
 
 1. The Convolutional Classifier (In Korean)
    - https://www.kaggle.com/piantic/the-convolutional-classifier-in-korean
